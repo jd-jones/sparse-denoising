@@ -1,7 +1,7 @@
 520.628: Final Project
 ----------------------
-Jonathan D. Jones (jdjones@jhu.edu)
-Valerie Rennoll   (vrennol1@jhu.edu)
+Jonathan D. Jones
+Valerie Rennoll
 
 Introduction
 ------------
